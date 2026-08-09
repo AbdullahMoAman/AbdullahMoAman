@@ -1,6 +1,7 @@
 ## Hi there 👋
 # 💫 About Me:
-I'm currently working on creating a web development projects using JavaScript<br>I'm looking for help with senior developers.<br>I have completed JavaScript course and going to do more projects and learning some frameworks like React, Next.js....<br>
+Hi I'm Abdullah, a front-end web developer, currently studying IT in India.<br>
+I'm currently working on creating a web development projects using JavaScript.<br>Looking for senior developers to earn valuable information.<br>After HTML and CSS, I have completed JavaScript course and going to do more projects and learning some frameworks like React, Next.js and more...<br>
 
 
 ## 🌐 Socials:
