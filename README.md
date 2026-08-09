@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-I'm currently working on creating a web development project using JavaScript<br>I'm looking for help with senior developers.<br>I'm currently learning JavaScript, close to finishing, and continuing with the React framework, next.Js...etc<br>
+I'm currently working on creating a web development projects using JavaScript<br>I'm looking for help with senior developers.<br>I have completed JavaScript course and going to do more projects and learning some frameworks like React, Next.js....<br>
 
 
 ## 🌐 Socials:
